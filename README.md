@@ -24,30 +24,24 @@ Check out the live version of the portfolio: [New Portfolio Website](https://you
 1. Clone the repository:
    ```bash
    git clone https://github.com/harisshafi10/New-Portfolio.git
+2. Install dependencies:
 
-Install dependencies:
+   ```bash 
+   npm install
 
-  ```bash
-npm install
+3. Start the development server:
 
-Install dependencies:
+   ```bash
+   npm start
+   
+4. Open your browser and visit:
 
-  ```bash
-Copy code
-npm install
-Start the development server:
+arduino 
 
-bash
-Copy code
-npm start
-Open your browser and visit:
-
-arduino
-Copy code
 http://localhost:3000
+
 Folder Structure
-php
-Copy code
+```php
 New-Portfolio/
 ├── public/        # Static files
 ├── src/           # Source code
@@ -58,31 +52,29 @@ New-Portfolio/
 ├── .gitignore     # Files to ignore in Git
 ├── package.json   # Project metadata and dependencies
 └── README.md      # Project documentation
+```
 How to Contribute
 If you have suggestions or improvements, feel free to:
 
-Fork the repository.
+1. Fork the repository.
 
-Create a new branch:
+2. Create a new branch:
 
-bash
-Copy code
-git checkout -b feature-name
-Make your changes and commit them:
+   ```bash
+   git checkout -b feature-name
+3. Make your changes and commit them:
 
-bash
-Copy code
-git commit -m "Add feature-name"
-Push to the branch:
+   ```bash
+   git commit -m "Add feature-name"
+4. Push to the branch:
 
-bash
-Copy code
-git push origin feature-name
-Create a pull request.
+   ```bash
+   git push origin feature-name
+5. Create a pull request.
 
 Contact
-GitHub: harisshafi10
-Email: your-email@example.com
-LinkedIn: Your LinkedIn Profile
 
-convert this into vs code file
+GitHub: harisshafi10
+Email: harisshafi01@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/harisshafi01/
