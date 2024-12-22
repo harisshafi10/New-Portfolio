@@ -74,7 +74,7 @@ If you have suggestions or improvements, feel free to:
 
 ## Contact
 
-GitHub: harisshafi10
+GitHub: https://github.com/harisshafi10
 
 Email: harisshafi01@gmail.com
 
