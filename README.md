@@ -72,7 +72,7 @@ If you have suggestions or improvements, feel free to:
    git push origin feature-name
 5. Create a pull request.
 
-Contact
+##Contact
 
 GitHub: harisshafi10
 Email: harisshafi01@gmail.com
