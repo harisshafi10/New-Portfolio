@@ -75,6 +75,7 @@ If you have suggestions or improvements, feel free to:
 ## Contact
 
 GitHub: harisshafi10
+
 Email: harisshafi01@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/harisshafi01/
